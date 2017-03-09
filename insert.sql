@@ -1,0 +1,1 @@
+SELECT * FROM sandesh1.patients;
